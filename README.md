@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NidzRao
-- 👀 I’m a robotics engineering graduate, interested in all things data and it's impact on people and behaviour. Storytelling is my passion - whether it's using words or numbers!
-- 🌱 I’m currently learning data visualisation tools like Power BI and Tableau, and data manipulation tools like Python and SQL.
+- 👀 I’m a robotics engineering graduate, interested in all things data and it's impact on people and behavior. Storytelling is my passion - whether it's using words or numbers!
+- 🌱 I’m currently learning data visualisation tools like Power BI, Looker, and Tableau, and data manipulation tools like Python and SQL.
 - 📫 You can reach me at nidhisureshrao@gmail.com or on LinkedIn using https://www.linkedin.com/in/nidhisureshrao/.
 
 <!---
